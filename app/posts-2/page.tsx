@@ -1,3 +1,8 @@
 export default function Posts2() {
-    return (<div>Posts2 is here</div>)
+    return (
+        <>
+            Posts2 is here
+            <a href="posts">Link to posts</a>
+        </>
+    )
 }
